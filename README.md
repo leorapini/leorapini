@@ -4,7 +4,9 @@
 
 The intersection of creativity, business, and technology is where I thrive. 
 
-Through my past experiences in leadership, entrepreneurship, and entertainment products development I've learned that whether in art, business or technology, understanding human behavior is the key to success. 
+Through my past experiences in leadership, entrepreneurship, and entertainment products development I've learned that whether in art, business or technology, understanding human behavior is the key to success.
+
+I became a full-stack web and mobile developer by accident. I simply wanted to make products that are meaningful and inspiring. 
 
 I currently serve as Tech Lead at [EcoSpot](https://ecospot.io), a platform and mobile application for community-driven climate action based in London, UK.
 
