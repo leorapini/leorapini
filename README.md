@@ -26,17 +26,15 @@ I currently serve as Tech Lead at [EcoSpot](https://ecospot.io), a platform and 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
 [website]: https://linktr.ee/leorapini
 [twitter]: https://twitter.com/leorapini
 [instagram]: https://www.instagram.com/leorapini
 [linkedin]: https://www.linkedin.com/in/leorapini
-<br>
 
-#### Social Networks
-
+## Social Networks
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+[![Mail](https://img.shields.io/badge/-leorapini@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:leorapini@gmail.com)
 
