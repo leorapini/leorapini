@@ -1,4 +1,6 @@
 # Leo Rapini 👋
+[![Linkedin](https://img.shields.io/badge/-Leo%20Rapini-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leorapini/)](https://www.linkedin.com/in/leorapini/)
+[![Mail](https://img.shields.io/badge/-leorapini@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:leorapini@gmail.com)
 
 The intersection of creativity, business, and technology is where I thrive. 
 
@@ -29,12 +31,9 @@ I currently serve as Tech Lead at [EcoSpot](https://ecospot.io), a platform and 
 [website]: https://linktr.ee/leorapini
 [twitter]: https://twitter.com/leorapini
 [instagram]: https://www.instagram.com/leorapini
-[linkedin]: https://www.linkedin.com/in/leorapini
 
 ## Social Networks
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
-[![Mail](https://img.shields.io/badge/-leorapini@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:leorapini@gmail.com)
+📷 [instagram][instagram] 
 
