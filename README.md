@@ -4,7 +4,7 @@ The intersection of creativity, business, and technology is where I thrive.
 
 Through my past experiences in leadership, entrepreneurship, and entertainment products development I've learned that whether in art, business or technology, understanding human behavior is the key to success. 
 
-I currently serve as Tech Lead at [EcoSpot][https://ecospot.io], a platform and mobile application for community-driven climate action based in London, UK.
+I currently serve as Tech Lead at [EcoSpot](https://ecospot.io), a platform and mobile application for community-driven climate action based in London, UK.
 
 
 ## **Languages I'm comfortable with:**  
@@ -25,13 +25,6 @@ I currently serve as Tech Lead at [EcoSpot][https://ecospot.io], a platform and 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-## **GitHub Stats**
-
-<a href="https://github.com/leorapini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorapini&theme=dracula&hide_langs_below=1" />
-</a>
 
 
 [website]: https://linktr.ee/leorapini
