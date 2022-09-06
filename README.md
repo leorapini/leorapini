@@ -4,7 +4,7 @@
 
 The intersection of creativity, business, and technology is where I thrive. 
 
-The intersection of creativity, business, and technology is my sweet spot. Through my past experiences in entrepreneurship, software and entertainment products development I've learned that whether in art or tech, understanding human behavior is the key to success.
+Through my past experiences in entrepreneurship, software and entertainment products development I've learned that whether in art or tech, understanding human behavior is the key to success.
 
 I became a full-stack web and mobile developer and Tech Lead by accident. I simply wanted to make products that are meaningful and inspiring. 
 
