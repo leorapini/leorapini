@@ -6,9 +6,7 @@ The intersection of creativity, business, and technology is where I thrive.
 
 Through my past experiences in entrepreneurship, software and entertainment products development I've learned that whether in art or tech, understanding human behavior is the key to success.
 
-I became a full-stack web and mobile developer and Tech Lead by accident. I simply wanted to make products that are meaningful and inspiring. 
-
-I currently serve as Tech Lead at [EcoSpot](https://ecospot.io), a platform and mobile application for community-driven climate action based in London, UK.
+I currently serve as CTO at [B.NOUS](https://www.bnous.com), an innovative edtech focused on lifelong and micro-learning based in São Paulo, Brazil.
 
 
 ## **Languages I'm comfortable with**  
