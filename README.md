@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-Leo%20Rapini-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leorapini/)](https://www.linkedin.com/in/leorapini/)
 [![Mail](https://img.shields.io/badge/-leorapini@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:leorapini@gmail.com)
 
-The intersection of creativity, business, and technology is where I thrive. 
+The intersection of media, business, and technology is where I thrive. 
 
 Through my past experiences in entrepreneurship, software and entertainment products development I've learned that whether in art or tech, understanding human behavior is the key to success.
 
